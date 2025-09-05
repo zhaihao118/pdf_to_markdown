@@ -1,0 +1,9 @@
+out/
+pdfs/
+!pdfs/Readme.md
+parsed_reports/
+daren/
+markdown/
+.venv/
+*.log
+__pycache__/
